@@ -10,10 +10,10 @@
 
 ### 🛡️ About Me
 
-- 🖥️ IT Systems Administrator moving into cybersecurity — **AAS in Cybersecurity**, Dallas College (May 2026).
+- 🖥️ IT Systems Administrator moving into cybersecurity - **AAS in Cybersecurity**, Dallas College (May 2026).
 - 🧪 I run a segmented home lab where I practice the stuff I don't touch day-to-day: network segmentation, intrusion detection, endpoint hardening, and building out a SOC pipeline.
-- 🔍 Most interested in **detection engineering** — making an attack show up across the network *and* the host, not just one or the other.
-- ⚔️ Also work the **offensive side** in an isolated lab range — running the attacks myself so I understand what the detections are supposed to catch.
+- 🔍 Most interested in **detection engineering** - making an attack show up across the network *and* the host, not just one or the other.
+- ⚔️ Also work the **offensive side** in an isolated lab range - running the attacks myself so I understand what the detections are supposed to catch.
 - ⚡ Fun fact: there's a tripwire somewhere in my repos. If you go digging, I'll know. 🐤
 
 ---
@@ -46,17 +46,17 @@
 ![Linux+ In Progress](https://img.shields.io/badge/CompTIA%20Linux%2B-In%20Progress-yellow?style=flat-square&logo=comptia&logoColor=white)
 ![Azure AZ-900 Planned](https://img.shields.io/badge/Azure%20AZ--900-Planned-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
 
-- ✅ **CompTIA A+** — certified
-- ✅ **Red Hat System Administration II (RH134)** — course completed via Red Hat Academy
-- 📚 **CompTIA Security+** — in progress
-- 📚 **CompTIA Linux+** — in progress
-- 🎯 **Microsoft Azure Fundamentals (AZ-900)** — planned
+- ✅ **CompTIA A+** - certified
+- ✅ **Red Hat System Administration II (RH134)** - course completed via Red Hat Academy
+- 📚 **CompTIA Security+** - in progress
+- 📚 **CompTIA Linux+** - in progress
+- 🎯 **Microsoft Azure Fundamentals (AZ-900)** - planned
 
 ---
 
 ### 🌐 Featured Project
 
-**[Home Lab & Security Infrastructure](https://github.com/iceman010-hub/homelab)** — a defense-in-depth home lab: VLAN segmentation, edge IDS, and a SOC built on **Security Onion** (Suricata + Zeek + Elastic SIEM) for the network side and **Wazuh agents** for host visibility. Documented like a real environment.
+**[Home Lab & Security Infrastructure](https://github.com/iceman010-hub/homelab)** - a defense-in-depth home lab: VLAN segmentation, edge IDS, and a SOC built on **Security Onion** (Suricata + Zeek + Elastic SIEM) for the network side and **Wazuh agents** for host visibility. Documented like a real environment.
 
 ---
 
