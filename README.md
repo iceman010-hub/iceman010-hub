@@ -10,10 +10,11 @@
 
 ### 🛡️ About Me
 
-- 🖥️ IT Systems Administrator moving into cybersecurity - **AAS in Cybersecurity**, Dallas College (May 2026).
-- 🧪 I run a segmented home lab where I practice the stuff I don't touch day-to-day: network segmentation, intrusion detection, endpoint hardening, and building out a SOC pipeline.
-- 🔍 Most interested in **detection engineering** - making an attack show up across the network *and* the host, not just one or the other.
-- ⚔️ Also work the **offensive side** in an isolated lab range - running the attacks myself so I understand what the detections are supposed to catch.
+- 🖥️ IT Systems Administrator moving into cybersecurity — **AAS in Cybersecurity**, Dallas College.
+- 🧪 I run a segmented home lab to practice what I don't touch day to day: network segmentation, intrusion detection, endpoint hardening, and a working SOC pipeline.
+- 🔍 Most interested in **detection engineering** — making an attack show up on the network *and* the host, and mapping what I catch to **MITRE ATT&CK** so the gaps are obvious.
+- ⚔️ I also work the **offensive side** in an isolated lab range, running the attacks myself so I know what the detections are supposed to catch.
+- 📋 On the **GRC** side, I've run a full CISA CSET assessment against NIST CSF 2.0 and written the policies, incident response, and continuity plans to close what it found.
 - ⚡ Fun fact: there's a tripwire somewhere in my repos. If you go digging, I'll know. 🐤
 
 ---
@@ -26,6 +27,11 @@
 ![Security Onion](https://img.shields.io/badge/Security%20Onion-7B2D8E?style=flat-square)
 ![Wazuh](https://img.shields.io/badge/Wazuh-3D8FC6?style=flat-square)
 ![Suricata](https://img.shields.io/badge/Suricata-DD2E44?style=flat-square)
+![Zeek](https://img.shields.io/badge/Zeek-3A6EA5?style=flat-square)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-B31B1B?style=flat-square)
+![NIST CSF 2.0](https://img.shields.io/badge/NIST%20CSF%202.0-1E4E8C?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
@@ -56,7 +62,7 @@
 
 ### 🌐 Featured Project
 
-**[Home Lab & Security Infrastructure](https://github.com/iceman010-hub/homelab)** - a defense-in-depth home lab: VLAN segmentation, edge IDS, and a SOC built on **Security Onion** (Suricata + Zeek + Elastic SIEM) for the network side and **Wazuh agents** for host visibility. Documented like a real environment.
+**[Home Lab & Security Infrastructure](https://github.com/iceman010-hub/homelab)** — a defense-in-depth home lab: VLAN segmentation, edge IDS, and a SOC built on **Security Onion** (Suricata + Zeek + Elastic SIEM) for the network side and **Wazuh agents** for host visibility. Documented like a real environment.
 
 ---
 
