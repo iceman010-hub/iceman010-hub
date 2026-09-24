@@ -49,14 +49,14 @@
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-E2231A?style=flat-square&logo=comptia&logoColor=white)
 ![Red Hat RH134](https://img.shields.io/badge/Red%20Hat-RH134%20Complete-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![Security+ In Progress](https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-yellow?style=flat-square&logo=comptia&logoColor=white)
-![Linux+ In Progress](https://img.shields.io/badge/CompTIA%20Linux%2B-In%20Progress-yellow?style=flat-square&logo=comptia&logoColor=white)
-![Azure AZ-900 Planned](https://img.shields.io/badge/Azure%20AZ--900-Planned-lightgrey?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cybersecurity In Progress](https://img.shields.io/badge/Google%20Cybersecurity-In%20Progress-yellow?style=flat-square&logo=google&logoColor=white)
+![HTB CDSA In Progress](https://img.shields.io/badge/HTB%20CDSA-In%20Progress-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
 - ✅ **CompTIA A+** - certified
 - ✅ **Red Hat System Administration II (RH134)** - course completed via Red Hat Academy
 - 📚 **CompTIA Security+** - in progress
-- 📚 **CompTIA Linux+** - in progress
-- 🎯 **Microsoft Azure Fundamentals (AZ-900)** - planned
+- 📚 **Google Cybersecurity Professional Certificate** - in progress
+- 📚 **HTB Certified Defensive Security Analyst (CDSA)** - in progress
 
 ---
 
