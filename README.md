@@ -41,6 +41,11 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square)
+![Microsoft Intune](https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square)
+![Microsoft 365 Admin](https://img.shields.io/badge/Microsoft%20365%20Admin-D83B01?style=flat-square)
+![Jira Admin](https://img.shields.io/badge/Jira%20Admin-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Slack Admin](https://img.shields.io/badge/Slack%20Admin-4A154B?style=flat-square)
 
 ---
 
