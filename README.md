@@ -1,6 +1,6 @@
 # Hey 👋, I'm Noe
 
-### IT Systems Administrator → Cybersecurity | Blue Team + Red Team
+### IT System Administrator → Cybersecurity | Blue Team + Red Team
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noevalencia)
 ![Focus](https://img.shields.io/badge/Focus-SOC%20%2F%20Detection-brightgreen?style=for-the-badge)
@@ -10,12 +10,21 @@
 
 ### 🛡️ About Me
 
-- 🖥️ IT Systems Administrator moving into cybersecurity — **AAS in Cybersecurity**, Dallas College.
+- 🖥️ IT System Administrator moving into cybersecurity — **AAS in Cybersecurity**, Dallas College.
 - 🧪 I run a segmented home lab to practice what I don't touch day to day: network segmentation, intrusion detection, endpoint hardening, and a working SOC pipeline.
 - 🔍 Most interested in **detection engineering** — making an attack show up on the network *and* the host, and mapping what I catch to **MITRE ATT&CK** so the gaps are obvious.
 - ⚔️ I also work the **offensive side** in an isolated lab range, running the attacks myself so I know what the detections are supposed to catch.
-- 📋 On the **GRC** side, I've run a full CISA CSET assessment against NIST CSF 2.0 and written the policies, incident response, and continuity plans to close what it found.
+- 📋 On the **GRC** side, I've run a full CISA CSET assessment against NIST CSF 2.0 and written the policies, incident response, and continuity plans to close what it found ([capstone](https://github.com/iceman010-hub/zos-cybersecurity-capstone)).
 - ⚡ Fun fact: there's a tripwire somewhere in my repos. If you go digging, I'll know. 🐤
+
+---
+
+### 🧱 How I Work
+
+- 🔨 **Build** — segmented networks, a layered SOC (edge IDS → Security Onion → Wazuh), and identity-based remote access with MFA.
+- 📝 **Document** — written so someone else could run it: a 119-page security program proposal and a step-by-step lab build guide.
+- 🔧 **Maintain** — close weaknesses as I find them. When my VPN turned out to be key-only, I replaced it with self-hosted NetBird and MFA.
+- 🎯 **Security+ foundation** — both featured projects are mapped to the CompTIA Security+ (SY0-701) domains, so the theory has hands-on work behind it.
 
 ---
 
@@ -65,9 +74,11 @@
 
 ---
 
-### 🌐 Featured Project
+### 🌐 Featured Projects
 
-**[Home Lab & Security Infrastructure](https://github.com/iceman010-hub/homelab)** — a defense-in-depth home lab: VLAN segmentation, edge IDS, and a SOC built on **Security Onion** (Suricata + Zeek + Elastic SIEM) for the network side and **Wazuh agents** for host visibility. Documented like a real environment.
+**[Home Lab & Security Infrastructure](https://github.com/iceman010-hub/homelab)** — a defense-in-depth home lab: 8-VLAN segmentation with default deny, a three-layer detection stack (edge **Suricata** → **Security Onion** → **Wazuh**), and **NetBird** remote access with MFA. Includes a CIA-triad [build guide](https://github.com/iceman010-hub/homelab/blob/main/BUILD-GUIDE.md) so you can build your own.
+
+**[ZOS Cybersecurity Infrastructure Proposal](https://github.com/iceman010-hub/zos-cybersecurity-capstone)** — a 119-page security program for a fictional 200-person aerospace company. A **CISA CSET** assessment against **NIST CSF 2.0** scored LOW; after my redesign it scored MODERATE/HIGH. Includes a custom Zero Trust governance framework (AZTOF), five SANS-based policy documents, incident response and continuity plans, and a $1.86M budget with five-year TCO.
 
 ---
 
